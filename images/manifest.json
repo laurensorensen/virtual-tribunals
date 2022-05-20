@@ -7,6 +7,63 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 619,
+    "id" : "https://laurensorensen.github.io/virtual-tribunals/images/EastTimor_CE-SPSC_Interlocutory_and_Post-Trial_Decisions_2001_01-2001_Decision_on_Motion_to_Partially_Dismiss_Indictment_0003/canvas/",
+    "label" : {
+      "none" : [ "EastTimor_CE-SPSC_Interlocutory_and_Post-Trial_Decisions_2001_01-2001_Decision_on_Motion_to_Partially_Dismiss_Indictment_0003" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://laurensorensen.github.io/virtual-tribunals/images/EastTimor_CE-SPSC_Interlocutory_and_Post-Trial_Decisions_2001_01-2001_Decision_on_Motion_to_Partially_Dismiss_Indictment_0003/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://laurensorensen.github.io/virtual-tribunals/images/EastTimor_CE-SPSC_Interlocutory_and_Post-Trial_Decisions_2001_01-2001_Decision_on_Motion_to_Partially_Dismiss_Indictment_0003/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 20,
+              "height" : 28
+            }, {
+              "width" : 39,
+              "height" : 56
+            }, {
+              "width" : 78,
+              "height" : 111
+            }, {
+              "width" : 155,
+              "height" : 221
+            }, {
+              "width" : 310,
+              "height" : 441
+            }, {
+              "width" : 619,
+              "height" : 882
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 619,
+            "@id" : "https://laurensorensen.github.io/virtual-tribunals/images/EastTimor_CE-SPSC_Interlocutory_and_Post-Trial_Decisions_2001_01-2001_Decision_on_Motion_to_Partially_Dismiss_Indictment_0003",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 882
+          } ],
+          "format" : "image/jpeg",
+          "width" : 619,
+          "id" : "https://laurensorensen.github.io/virtual-tribunals/images/EastTimor_CE-SPSC_Interlocutory_and_Post-Trial_Decisions_2001_01-2001_Decision_on_Motion_to_Partially_Dismiss_Indictment_0003/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 882
+        },
+        "target" : "https://laurensorensen.github.io/virtual-tribunals/images/EastTimor_CE-SPSC_Interlocutory_and_Post-Trial_Decisions_2001_01-2001_Decision_on_Motion_to_Partially_Dismiss_Indictment_0003/canvas/"
+      } ]
+    } ],
+    "height" : 882
+  }, {
+    "width" : 619,
     "id" : "https://laurensorensen.github.io/virtual-tribunals/images/EastTimor_CE-SPSC_Interlocutory_and_Post-Trial_Decisions_2001_01-2001_Decision_on_Motion_to_Partially_Dismiss_Indictment_0002/canvas/",
     "label" : {
       "none" : [ "EastTimor_CE-SPSC_Interlocutory_and_Post-Trial_Decisions_2001_01-2001_Decision_on_Motion_to_Partially_Dismiss_Indictment_0002" ]
