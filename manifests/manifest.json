@@ -1,0 +1,130 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://laurensorensen.github.io/virtual-tribunals/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Sample document from Special Panels for Serious Crimes, East Timor (SPSC) collection",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "In 1999, the East Timorese voted to become citizens of an independent state. Independence, first claimed in 1975, came at a high price, exacted over 24 years of Indonesian occupation. Even after the Indonesian government decided in early 1999 to allow the East Timorese to choose between autonomy within Indonesia or independence, supporters of independence suffered systematic violence at the hands of militia groups created and directed by the Indonesian army.\n\nThe violence intensified before and after the vote for independence on August 30, 1999, and then reached its climax once the outcome was announced. Thousands were killed or injured, hundreds of thousands were displaced, and the systematic and massive destruction of property caused immense damage to the living conditions of an already poor and vulnerable population. The attacks on United Nations personnel, including the killing of several East Timorese staff members, added a special aspect of international concern to what were already clearly crimes against humanity.\n\nThe international community was outraged as the media reported the violence. There were calls for an international tribunal to be created to investigate and prosecute the crimes, foremost among them the recommendation of the International Commission of Inquiry mandated by the UN Commission on Human Rights. This was not done, as Indonesia committed itself to ensure full accountability. Three post-conflict mechanisms were created to address this period of violence: (1) the Serious Crimes Unit (SCU) of the Special Panels for Serious Crimes (SPSC) in Dili, East Timor; (2) the Ad Hoc Human Rights Court on East Timor in Jakarta, Indonesia; and (3) the Commission on Truth and Friendship of East Timor and Indonesia. The Center has closely monitored and published critical analysis of the investigative efforts and formal proceedings in all three of these transitional justice efforts.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/publicdomain/mark/1.0/",
+  "attribution" : "Center for Human Rights and International Justice, Stanford University ",
+  "sequences" : [ {
+    "@id" : "http://d5505566-985c-465d-9922-dc0a3bd0e16c",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://dad1c626-2e84-47b1-aec4-5606acbf2ba1",
+      "@type" : "sc:Canvas",
+      "label" : "page 1 - 11 Feb 2005 Court Decision on Defense Motion to Partially Dismiss the Indictment",
+      "height" : 3525,
+      "width" : 2475,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://155452c8-eb8b-4453-bbc1-fadbd6bd45d0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://stacks.stanford.edu/image/iiif/hd940kz5218%2FEastTimor_CE-SPSC_Interlocutory_and_Post-Trial_Decisions_2001_01-2001_Decision_on_Motion_to_Partially_Dismiss_Indictment_0001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://stacks.stanford.edu/image/iiif/hd940kz5218%2FEastTimor_CE-SPSC_Interlocutory_and_Post-Trial_Decisions_2001_01-2001_Decision_on_Motion_to_Partially_Dismiss_Indictment_0001",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "height" : 3525,
+          "width" : 2475
+        },
+        "on" : "http://dad1c626-2e84-47b1-aec4-5606acbf2ba1"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://76d75524-30fa-478b-8873-eb622336af06",
+      "@type" : "sc:Canvas",
+      "label" : "page 2 - 11 Feb 2005 Court Decision on Defense Motion to Partially Dismiss the Indictment",
+      "height" : 3525,
+      "width" : 2475,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://014ea0bf-b634-4406-b56a-b6c01a2b81b2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://stacks.stanford.edu/image/iiif/hd940kz5218%2FEastTimor_CE-SPSC_Interlocutory_and_Post-Trial_Decisions_2001_01-2001_Decision_on_Motion_to_Partially_Dismiss_Indictment_0002/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://stacks.stanford.edu/image/iiif/hd940kz5218%2FEastTimor_CE-SPSC_Interlocutory_and_Post-Trial_Decisions_2001_01-2001_Decision_on_Motion_to_Partially_Dismiss_Indictment_0002",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "height" : 3525,
+          "width" : 2475
+        },
+        "on" : "http://76d75524-30fa-478b-8873-eb622336af06"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://7a32e6b6-15b6-476b-9d0f-555719dd5805",
+      "@type" : "sc:Canvas",
+      "label" : "page 3 - 11 Feb 2005 Court Decision on Defense Motion to Partially Dismiss the Indictment",
+      "height" : 3525,
+      "width" : 2475,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d6dcb824-8c12-45c2-96c8-bd02f6199135",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://stacks.stanford.edu/image/iiif/hd940kz5218%2FEastTimor_CE-SPSC_Interlocutory_and_Post-Trial_Decisions_2001_01-2001_Decision_on_Motion_to_Partially_Dismiss_Indictment_0003/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://stacks.stanford.edu/image/iiif/hd940kz5218%2FEastTimor_CE-SPSC_Interlocutory_and_Post-Trial_Decisions_2001_01-2001_Decision_on_Motion_to_Partially_Dismiss_Indictment_0003",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "height" : 3525,
+          "width" : 2475
+        },
+        "on" : "http://7a32e6b6-15b6-476b-9d0f-555719dd5805"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://18b9afa6-7411-44b4-beae-d9b125cf02cb",
+      "@type" : "sc:Canvas",
+      "label" : "page 4 - 11 Feb 2005 Court Decision on Defense Motion to Partially Dismiss the Indictment [end]",
+      "height" : 3530,
+      "width" : 2482,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://beb9f684-1ab6-4821-a0af-5b9be93c7569",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://stacks.stanford.edu/image/iiif/hd940kz5218%2FEastTimor_CE-SPSC_Interlocutory_and_Post-Trial_Decisions_2001_01-2001_Decision_on_Motion_to_Partially_Dismiss_Indictment_0004/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://stacks.stanford.edu/image/iiif/hd940kz5218%2FEastTimor_CE-SPSC_Interlocutory_and_Post-Trial_Decisions_2001_01-2001_Decision_on_Motion_to_Partially_Dismiss_Indictment_0004",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "height" : 3530,
+          "width" : 2482
+        },
+        "on" : "http://18b9afa6-7411-44b4-beae-d9b125cf02cb"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ],
+  "thumbnail" : {
+    "@id" : "http://dad1c626-2e84-47b1-aec4-5606acbf2ba1"
+  }
+}
