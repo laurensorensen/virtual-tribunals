@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://laurensorensen.github.io/virtual-tribunals/manifests/manifest.json",
     "label" : "Sample document from Special Panels for Serious Crimes, East Timor (SPSC) collection"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://laurensorensen.github.io/virtual-tribunals/manifests/manifest_vt.json",
+    "label" : "Sample document from Special Panels for Serious Crimes, East Timor (SPSC) collection"
   } ]
 }
